@@ -1,0 +1,7 @@
+commit 7ad6953a0f91bfae9d52c8c2d0872e266913b140 (HEAD -> main)
+
+    日本語訳を追記
+
+commit d7ba63324431d16b9b9c6391b6ad26483fa372b1
+
+    hello_worldを追加
